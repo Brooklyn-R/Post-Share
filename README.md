@@ -1,6 +1,6 @@
 # Sipmle Post Share App
 
-## Python
+## Python & Tailwindcss
 
 #### Usage
  Git clone <br/>
